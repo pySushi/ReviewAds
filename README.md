@@ -1,2 +1,2 @@
 # ReviewAds
-App that creates ad with customer review.",   "keywords": [
+App that creates ad with customer review.

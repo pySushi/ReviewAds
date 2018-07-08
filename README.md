@@ -1,2 +1,2 @@
 # ReviewAds
-App that creates ad with customer review.
+App that creates ad from customer review.
